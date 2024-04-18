@@ -19,12 +19,6 @@ Enfim aproveite!
 </div>
  
  <br>
-  
-<div>
- 
-  ![Snake animation](https://github.com/roberto-hofstetter/emanuel13pel/blob/output/github-contribution-grid-snake.svg)
-
-</div>
  
   ### Para entrar em contato clique em alguma das redes!
  
